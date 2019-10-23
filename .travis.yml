@@ -1,5 +1,8 @@
 language: cpp
 dist: bionic
+addons:
+  apt:
+    packages: libsdl2-2.0
 
 arch:
  - amd64
