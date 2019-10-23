@@ -1,4 +1,4 @@
-LodePNG
+LodePNG [![Travis Status](https://api.travis-ci.com/lvandeve/lodepng.svg?branch=master)](https://travis-ci.com/lvandeve/lodepng)
 -------
 
 PNG encoder and decoder in C and C++, without dependencies
